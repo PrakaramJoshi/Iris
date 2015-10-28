@@ -1,0 +1,13 @@
+--zoom_factor=1.0
+--fov=50.0
+--znear=0.001
+--zfar=1000.0
+--auto_rotate=No
+--rotate_x=-0.5
+--rotate_y=0.0
+--rotate_z=-0.5
+--rotate_about_x=0.0
+--rotate_about_y=1.0
+--rotate_about_z=0.0
+--rotate_speed=5
+--display_type=POINT_CLOUD
